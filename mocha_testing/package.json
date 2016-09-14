@@ -1,0 +1,17 @@
+{
+  "name": "mocha_testing",
+  "version": "1.0.0",
+  "description": "Learning about test driven development with javascript",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "smerth",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^3.5.0"
+  }
+}
