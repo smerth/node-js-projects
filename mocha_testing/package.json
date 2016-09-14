@@ -12,6 +12,7 @@
   "author": "smerth",
   "license": "MIT",
   "devDependencies": {
-    "chai": "^3.5.0"
+    "chai": "^3.5.0",
+    "nock": "^8.0.0"
   }
 }
