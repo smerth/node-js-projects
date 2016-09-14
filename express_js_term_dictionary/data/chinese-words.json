@@ -1,0 +1,15 @@
+{
+    "chineseWords": [{
+        "word": "你好",
+        "pinyin": "Nǐ hǎo",
+        "defined": "Hello"
+    }, {
+        "word": "出租汽车",
+        "pinyin": "Chūzū qìchē",
+        "defined": "Taxi"
+    }, {
+        "word": "自行车",
+        "pinyin": "Zìxíngchē",
+        "defined": "Bicyle"
+    }]
+}
