@@ -30,7 +30,7 @@ The app server serves your application files from the public folder on port 3000
 ### Start the app server with node-dev
 
 ```bash
-node-dev app.js
+node-dev app
 ```
 
 node-dev will reload the express server any time you make changes to app-server.js. (N.B. - it doesn't restart the browser, just the server.)
@@ -122,7 +122,7 @@ app.use(express.static("./public"));
 
 app.listen(8000);
 
-console.log("Express JSON server up and running on port: 3000);
+console.log("Express JSON server up and running on port: 3000");
 
 module.exports = app;
 ```
